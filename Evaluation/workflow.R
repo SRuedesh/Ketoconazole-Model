@@ -62,8 +62,9 @@ createQualificationReport <- function(qualificationRunnerFolder,
     if (!is.numeric(maxSimulationsPerCore) ||
         length(maxSimulationsPerCore) != 1 ||
         is.na(maxSimulationsPerCore) ||
-        maxSimulationsPerCore < 1) {
-      stop("maxSimulationsPerCore must be a single numeric value >= 1.", call. = FALSE)
+        maxSimulationsPerCore < 1 ||
+        maxSimulationsPerCore %% 1 != 0) {
+      stop("maxSimulationsPerCore must be a single integer value >= 1.", call. = FALSE)
     }
     workflow$simulate$settings$maxSimulationsPerCore <- as.integer(maxSimulationsPerCore)
   }
