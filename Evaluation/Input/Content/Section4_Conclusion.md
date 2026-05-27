@@ -1,0 +1,1 @@
+The ketoconazole parent-metabolite PBPK model provides a mechanistic description of oral ketoconazole pharmacokinetics across formulation, food-effect and multiple-dose scenarios. The model structure supports DFI and DDI perpetrator applications by representing ketoconazole and its metabolites as contributors to CYP3A4 and P-gp inhibition.

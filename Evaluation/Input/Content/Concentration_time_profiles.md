@@ -1,0 +1,1 @@
+Concentration-time profiles are grouped by formulation and dosing context. Solution and capsule-as-solution scenarios are shown separately from tablet studies because they inform different absorption assumptions.

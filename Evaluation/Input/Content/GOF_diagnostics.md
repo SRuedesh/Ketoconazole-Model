@@ -1,0 +1,1 @@
+Goodness-of-fit diagnostics are separated by analyte. Ketoconazole and N-deacetylketoconazole observations are evaluated in separate sections to preserve analyte-specific mappings, colors and residual diagnostics.
