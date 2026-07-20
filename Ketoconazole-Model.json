@@ -5586,6 +5586,317 @@
   ],
   "Simulations": [
     {
+      "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37)",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 24,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 24,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 80,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B1|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B2|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B3|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 0,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Knupp 1993 male",
+      "Compounds": [
+        {
+          "Name": "Ketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fit fasted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Assumed",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "AADAC-Fukami 2016",
+              "MoleculeName": "AADAC",
+              "MetaboliteName": "N-deacetylketoconazole"
+            },
+            {
+              "Name": "UGT1A4-Bourcier 2010",
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "ABCB1-Assumed",
+              "MoleculeName": "ABCB1"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "PO_PD_tablet_3Bins_200mg",
+            "Formulations": [
+              {
+                "Name": "PD_tablet_3Bins_B1",
+                "Key": "PD_tablet_3Bins_B1"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B2",
+                "Key": "PD_tablet_3Bins_B2"
+              },
+              {
+                "Name": "PD_tablet_3Bins_B3",
+                "Key": "PD_tablet_3Bins_B3"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "N-deacetylketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Rodriguez 1997",
+              "MoleculeName": "FMO3",
+              "MetaboliteName": "N-deacetyl-N-hydroxyketoconazole"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-deacetyl-N-hydroxyketoconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Berezhkovskiy",
+            "Cellular permeability - Charge dependent Schmitt"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Assumed",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "FMO3-Clearance",
+              "MoleculeName": "FMO3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "Min": -3.202785,
+              "Max": 28.04526,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "Min": -0.7550737,
+              "Max": 5.394171,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37) simulated Ketoconazole",
+              "X": "Time",
+              "Y": "Knupp (1993), KTZ 200 mg tablet, fasted (37)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole observed",
+              "X": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole|Time",
+              "Y": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Ketoconazole - V11\nKnupp (1993), KTZ 200 mg tablet, fasted (37)\n2023-02-17 13:48"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Ketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-deacetylketoconazole"
+        },
+        {
+          "Name": "CYP3A4-Weiss 2022",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-deacetyl-N-hydroxyketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "Ketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "N-deacetylketoconazole"
+        },
+        {
+          "Name": "ABCB1-Weiss 2022",
+          "MoleculeName": "ABCB1",
+          "CompoundName": "N-deacetyl-N-hydroxyketoconazole"
+        }
+      ]
+    },
+    {
       "Name": "Heel (1982), KTZ 200 mg solution, fasted (114)",
       "Model": "4Comp",
       "ObservedData": [
@@ -12087,317 +12398,6 @@
           "Name": "ABCB1-Weiss 2022",
           "MoleculeName": "ABCB1",
           "CompoundName": "Ketoconazole"
-        },
-        {
-          "Name": "ABCB1-Weiss 2022",
-          "MoleculeName": "ABCB1",
-          "CompoundName": "N-deacetyl-N-hydroxyketoconazole"
-        }
-      ]
-    },
-    {
-      "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37)",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 24,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 24,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 80,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B1|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B2|Application_2|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 0,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Applications|PO_PD_tablet_3Bins_200mg|PD_tablet_3Bins_B3|Application_3|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 0,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
-      ],
-      "Individual": "Knupp 1993 male",
-      "Compounds": [
-        {
-          "Name": "Ketoconazole",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fit fasted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Assumed",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "AADAC-Fukami 2016",
-              "MoleculeName": "AADAC",
-              "MetaboliteName": "N-deacetylketoconazole"
-            },
-            {
-              "Name": "UGT1A4-Bourcier 2010",
-              "MoleculeName": "UGT1A4"
-            },
-            {
-              "MoleculeName": "FMO3"
-            },
-            {
-              "Name": "ABCB1-Assumed",
-              "MoleculeName": "ABCB1"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "PO_PD_tablet_3Bins_200mg",
-            "Formulations": [
-              {
-                "Name": "PD_tablet_3Bins_B1",
-                "Key": "PD_tablet_3Bins_B1"
-              },
-              {
-                "Name": "PD_tablet_3Bins_B2",
-                "Key": "PD_tablet_3Bins_B2"
-              },
-              {
-                "Name": "PD_tablet_3Bins_B3",
-                "Key": "PD_tablet_3Bins_B3"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "N-deacetylketoconazole",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - Charge dependent Schmitt"
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "MoleculeName": "UGT1A4"
-            },
-            {
-              "Name": "FMO3-Rodriguez 1997",
-              "MoleculeName": "FMO3",
-              "MetaboliteName": "N-deacetyl-N-hydroxyketoconazole"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "N-deacetyl-N-hydroxyketoconazole",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Berezhkovskiy",
-            "Cellular permeability - Charge dependent Schmitt"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Assumed",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "MoleculeName": "UGT1A4"
-            },
-            {
-              "Name": "FMO3-Clearance",
-              "MoleculeName": "FMO3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "Min": -3.202785,
-              "Max": 28.04526,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µg/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "Min": -0.7550737,
-              "Max": 5.394171,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37) simulated Ketoconazole",
-              "X": "Time",
-              "Y": "Knupp (1993), KTZ 200 mg tablet, fasted (37)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole observed",
-              "X": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole|Time",
-              "Y": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 2,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Ketoconazole - V11\nKnupp (1993), KTZ 200 mg tablet, fasted (37)\n2023-02-17 13:48"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "CYP3A4-Weiss 2022",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "Ketoconazole"
-        },
-        {
-          "Name": "CYP3A4-Weiss 2022",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "N-deacetylketoconazole"
-        },
-        {
-          "Name": "CYP3A4-Weiss 2022",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "N-deacetyl-N-hydroxyketoconazole"
-        },
-        {
-          "Name": "ABCB1-Weiss 2022",
-          "MoleculeName": "ABCB1",
-          "CompoundName": "Ketoconazole"
-        },
-        {
-          "Name": "ABCB1-Weiss 2022",
-          "MoleculeName": "ABCB1",
-          "CompoundName": "N-deacetylketoconazole"
         },
         {
           "Name": "ABCB1-Weiss 2022",

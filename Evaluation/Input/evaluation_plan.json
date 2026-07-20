@@ -360,371 +360,371 @@
                 "Simulation": "Heel (1982), KTZ 200 mg solution, fasted (114)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heel (1982), KTZ 200 mg solution, fasted (114), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (3)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang (1986), KTZ 200 mg solution, fasted (3), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (4)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang (1986), KTZ 200 mg solution, fasted (4), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Huang (1986), KTZ 400 mg solution, fasted (5)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang (1986), KTZ 400 mg solution, fasted (5), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Huang (1986), KTZ 800 mg solution, fasted (6)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang (1986), KTZ 800 mg solution, fasted (6), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1983), KTZ 200 mg tablet, fasted (29)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1983), KTZ 200 mg tablet, fasted (29), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Patel (2011), KTZ 200 mg tablet, fasted (65)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Patel (2011), KTZ 200 mg tablet, fasted (65), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Tiseo (1998), KTZ 200 mg solution, fasted (81)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Chin (1995), KTZ 200 mg tablet, fasted (15)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Chin (1995), KTZ 200 mg tablet, fasted (15), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1983), KTZ 200 mg tablet, fasted (28)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1983), KTZ 200 mg tablet, fasted (28), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 200 mg tablet, fasted (20)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 200 mg tablet, fasted (20), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fasted (21)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 400 mg tablet, fasted (21), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fasted (22)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 600 mg tablet, fasted (22), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "FDA (1998), KTZ 200 mg tablet, fasted (86)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "FDA (1998), KTZ 200 mg tablet, fasted (86), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "FDA (1998), KTZ 200 mg tablet, fasted (89)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "FDA (1998), KTZ 200 mg tablet, fasted (89), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "FDA (1998), KTZ 200 mg tablet, fasted (85)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "FDA (1998), KTZ 200 mg tablet, fasted (85), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Heel (1982), KTZ 100 mg tablet, fasted (111)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heel (1982), KTZ 100 mg tablet, fasted (111), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Heel (1982), KTZ 200 mg tablet, fasted (112)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heel (1982), KTZ 200 mg tablet, fasted (112), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Heel (1982), KTZ 400 mg tablet, fasted (113)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Heel (1982), KTZ 400 mg tablet, fasted (113), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Huang (1986), KTZ 200 mg tablet, fasted (1)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang (1986), KTZ 200 mg tablet, fasted (1), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Knupp (1993), KTZ 200 mg tablet, fasted (37)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Knupp (1993), KTZ 200 mg tablet, fasted (37), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (40)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (41)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (42)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Polk (1999), KTZ 400 mg tablet, fasted (69)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Polk (1999), KTZ 400 mg tablet, fasted (69), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (72)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Solomon (2007), KTZ 400 mg tablet, fasted (72), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (73)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Solomon (2007), KTZ 400 mg tablet, fasted (73), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Piscitelli (1991), KTZ 400 mg tablet, fasted (77)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Piscitelli (1991), KTZ 400 mg tablet, fasted (77), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Van der Meer (1980), KTZ 200 mg tablet, fasted ctrl (90)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Van der Meer (1980), KTZ 200 mg tablet, fasted ctrl (90), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Weiss (2022), KTZ 400 mg tablet, fasted (168)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Weiss (2022), KTZ 400 mg tablet, fasted (168), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Yuen (1999), KTZ 200 mg tablet, fasted (96)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yuen (1999), KTZ 200 mg tablet, fasted (96), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Yuen (1999), KTZ 200 mg tablet, fasted (97)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Yuen (1999), KTZ 200 mg tablet, fasted (97), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Boyce (2012), KTZ 200 mg tablet, fasted (10)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Boyce (2012), KTZ 200 mg tablet, fasted (10), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Boyce (2012), KTZ 200 mg tablet, fasted (9)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Boyce (2012), KTZ 200 mg tablet, fasted (9), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Craven (1983), KTZ 1200 mg tablet, fed (128)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Craven (1983), KTZ 1200 mg tablet, fed (128), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Craven (1983), KTZ 800 mg tablet, fed (127)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Craven (1983), KTZ 800 mg tablet, fed (127), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Sekar (2008), KTZ 200 mg tablet, fed (103)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Wire (2007), KTZ 200 mg tablet, fasted (94)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Wire (2007), KTZ 200 mg tablet, fasted (94), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1981), KTZ 200 mg tablet, fed (109)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1981), KTZ 200 mg tablet, fed (109), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1981), KTZ 400 mg tablet, fed (110)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1981), KTZ 400 mg tablet, fed (110), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 200 mg tablet, fed (24)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 200 mg tablet, fed (24), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fed (26)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 600 mg tablet, fed (26), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fed (27)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 800 mg tablet, fed (27), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (87)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "FDA (1998), KTZ 200 mg tablet, fed (87), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (88)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "FDA (1998), KTZ 200 mg tablet, fed (88), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fed (43)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fasted (23)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 800 mg tablet, fasted (23), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               },
               {
                 "Project": "Ketoconazole",
                 "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fed (25)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Daneshmend (1984), KTZ 400 mg tablet, fed (25), Ketoconazole",
-                "Color": "#FF0000"
+                "Color": "#0000FF"
               }
             ]
           }
@@ -752,7 +752,7 @@
                 "Simulation": "Weiss (2022), KTZ 400 mg tablet, fasted (168)",
                 "Output": "Organism|PeripheralVenousBlood|N-deacetylketoconazole|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Weiss (2022), KTZ 400 mg tablet, fasted (168), N-deacetylketoconazole",
-                "Color": "#0000FF"
+                "Color": "#FF8000"
               }
             ]
           }
