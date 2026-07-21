@@ -9,7 +9,3 @@ Ketoconazole is a weak base with high plasma protein binding and pH-dependent so
 #### Metabolism, transport and inhibition
 
 Ketoconazole metabolism includes formation of N-deacetylketoconazole by arylacetamide deacetylase and further metabolism through CYP3A4 and UGT pathways. Ketoconazole and metabolites were represented as CYP3A4 and P-gp inhibitors, which is required to describe the observed DDI perpetrator behavior more accurately than a parent-only inhibition model [Marok 2023](References.md), Table 1, and [Weiss 2022](References.md).
-
-#### Automated parameter identification
-
-Parameters that could not be fixed from independent physicochemical or in vitro evidence were optimized against the clinical plasma concentration-time profiles. Optimized parameters include formulation-related dissolution terms and selected compound-specific disposition parameters. Kinetic symbols are reported in the generated input tables with the corresponding source metadata from the model.
