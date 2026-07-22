@@ -1,12 +1,12 @@
 [1] F Z Marok, J-G Wojtyniak, L M Fuhr, D Selzer, M Schwab, J Weiss, W E Haefeli, T Lehr. A Physiologically Based Pharmacokinetic Model of Ketoconazole and Its Metabolites as Drug-Drug Interaction Perpetrators. Pharmaceutics, 2023;15:679. doi: [10.3390/pharmaceutics15020679](https://doi.org/10.3390/pharmaceutics15020679).
 
-[2] J Weiss, K I Foerster, M Weber, J Burhenne, G Mikus, T Lehr, W E Haefeli. Does the circulating ketoconazole metabolite N-deacetyl ketoconazole contribute to the drug-drug interaction potential of the parent compound? Eur J Pharm Sci, 2022;169:106076. doi: [10.1016/j.ejps.2021.106076](https://doi.org/10.1016/j.ejps.2021.106076).
+[2] J Weiss, K I Foerster, M Weber, J Burhenne, G Mikus, T Lehr, W E Haefeli. Does the circulating ketoconazole metabolite N-deacetyl ketoconazole contribute to the drug-drug interaction potential of the parent compound? Eur J Pharm Sci, 2022;169:106076. [DOI](https://doi.org/10.1016/j.ejps.2021.106076).
 
 [3] T Fukami, A Iida, K Konishi, M Nakajima. Human arylacetamide deacetylase hydrolyzes ketoconazole to trigger hepatocellular toxicity. Biochem Pharmacol, 2016;116:153-161. doi: [10.1016/j.bcp.2016.07.007](https://doi.org/10.1016/j.bcp.2016.07.007).
 
 [4] W Fitch, T Tran, M Young, L Liu, Y Chen. Revisiting the Metabolism of Ketoconazole Using Accurate Mass. Drug Metab Lett, 2009;3:191-198. doi: [10.2174/187231209789352085](https://doi.org/10.2174/187231209789352085).
 
-[5] D Schwab, H Fischer, A Tabatabaei, S Poli, J Huwyler. Comparison of in Vitro P-Glycoprotein Screening Assays: Recommendations for Their Use in Drug Discovery. J Med Chem, 2003;46:1716-1725. doi: [10.1021/jm021012t](https://doi.org/10.1021/jm021012t).
+[5] D Schwab, H Fischer, A Tabatabaei, S Poli, J Huwyler. Comparison of in Vitro P-Glycoprotein Screening Assays: Recommendations for Their Use in Drug Discovery. J Med Chem, 2003;46:1716-1725. [DOI](https://doi.org/10.1021/jm021012t).
 
 [6] K Bourcier, R Hyland, S Kempshall, R Jones, J Maximilien, N Irvine, B Jones. Investigation into UDP-Glucuronosyltransferase enzyme kinetics of imidazole- and triazole-containing antifungal drugs in human liver microsomes and recombinant UGT enzymes. Drug Metab Dispos, 2010;38:923-929. doi: [10.1124/dmd.109.030676](https://doi.org/10.1124/dmd.109.030676).
 
@@ -22,7 +22,7 @@
 
 [12] Y-C Huang, J L Colaizzi, R H Bierman, R Woestenborghs, J J P Heykants. Pharmacokinetics and dose proportionality of ketoconazole in normal volunteers. Antimicrob Agents Chemother, 1986;30:206-210. doi: [10.1128/AAC.30.2.206](https://doi.org/10.1128/AAC.30.2.206).
 
-[13] R E Polk, M A Crouch, D S Israel, A Pastor, B M Sadler, G E Chittick, W T Symonds, W Gouldin, Y Lou. Pharmacokinetic interaction between ketoconazole and amprenavir after single doses in healthy men. Pharmacotherapy, 1999;19:1378-1384. doi: [10.1592/phco.19.18.1378.30905](https://doi.org/10.1592/phco.19.18.1378.30905).
+[13] R E Polk, M A Crouch, D S Israel, A Pastor, B M Sadler, G E Chittick, W T Symonds, W Gouldin, Y Lou. Pharmacokinetic interaction between ketoconazole and amprenavir after single doses in healthy men. Pharmacotherapy, 1999;19:1378-1384. [DOI](https://doi.org/10.1592/phco.19.18.1378.30905).
 
 [14] M J Boyce, K J Baisley, S J Warrington. Pharmacokinetic interaction between domperidone and ketoconazole leads to QT prolongation in healthy volunteers: A randomized, placebo-controlled, double-blind, crossover study. Br J Clin Pharmacol, 2012;73:411-421. doi: [10.1111/j.1365-2125.2011.04093.x](https://doi.org/10.1111/j.1365-2125.2011.04093.x).
 
