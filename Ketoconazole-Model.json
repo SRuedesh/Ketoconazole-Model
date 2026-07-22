@@ -3182,7 +3182,7 @@
             },
             {
               "Name": "Km",
-              "Value": 0.04,
+              "Value": 0.035,
               "Unit": "µmol/l",
               "ValueOrigin": {
                 "Source": "Other",
