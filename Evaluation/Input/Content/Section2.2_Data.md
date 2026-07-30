@@ -8,9 +8,9 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | MW | g/mol | 531.43 | [Chemicalize 2021](#5) | Molecular weight. |
 | logP | - | 2.52 | Optimized | Octanol-water partition coefficient of the neutral species. |
 | f<sub>u</sub> | % | 1 | [Heel 1982](#5) | Fraction unbound in plasma. |
-| pK<sub>a</sub> | - | 2.94<sup>a</sup> | [Chemicalize 2021](#5) | Acid dissociation constant. |
-| pK<sub>a</sub> | - | 6.51<sup>a</sup> | [Chemicalize 2021](#5) | Acid dissociation constant. |
-| Solubility | mg/L | 2.03 × 10<sup>4</sup> (pH 1.2); 4.3 × 10<sup>4</sup> (pH 3); 7.00 (pH 6.8); 5.40 (pH 7); 6.00 (pH 7.5)<sup>c</sup> | [Ghazal 2015](#5) | Aqueous solubility at the specified pH values. |
+| pK<sub>a</sub>,base | - | 2.94 | [Chemicalize 2021](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,base | - | 6.51 | [Chemicalize 2021](#5) | pKa of a basic ionization site. |
+| Solubility | mg/L | 2.033 × 10<sup>4</sup> (pH 1.2); 4.3 × 10<sup>2</sup> (pH 3); 1.0 × 10<sup>2</sup> (pH 5); 7.00 (pH 6.8); 6.00 (pH 7.5); 5.40 (deionized water)<sup>c</sup> | [Ghazal 2015](#5), Table 1 | Aqueous solubility in the specified media. |
 | Density | g/cm<sup>3</sup> | 1.40 | [ChemSpider 2021](#5) | Solid-state density. |
 | D<sub>aq</sub> | dm<sup>2</sup>/min | 3.75 × 10<sup>−7</sup> | Optimized | Aqueous diffusion coefficient. |
 | P<sub>int</sub>, fasted | cm/min | 1.56 × 10<sup>−5</sup> | Optimized | Specific transcellular intestinal permeability in the fasted state. |
@@ -36,10 +36,10 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | MW | g/mol | 489.40 | [Chemicalize 2021b](#5) | Molecular weight. |
 | logP | - | 3.75 | Optimized | Octanol-water partition coefficient of the neutral species. |
 | f<sub>u</sub> | % | 1 | [Heel 1982](#5) | Fraction unbound in plasma. |
-| pK<sub>a</sub> | - | 0.20<sup>a</sup> | [Chemicalize 2021b](#5) | Acid dissociation constant. |
-| pK<sub>a</sub> | - | 6.42<sup>a</sup> | [Chemicalize 2021b](#5) | Acid dissociation constant. |
-| pK<sub>a</sub> | - | 8.90<sup>a</sup> | [Chemicalize 2021b](#5) | Acid dissociation constant. |
-| Solubility | mg/mL | 1.24 | [Chemicalize 2021b](#5) | Aqueous solubility at pH 6.5. |
+| pK<sub>a</sub>,base | - | 0.20 | [Chemicalize 2021b](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,base | - | 6.42 | [Chemicalize 2021b](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,base | - | 8.90 | [Chemicalize 2021b](#5) | pKa of a basic ionization site. |
+| Solubility | mg/L | 1.24 × 10<sup>3</sup> | [Chemicalize 2021b](#5) | Aqueous solubility at pH 6.5. |
 | Cellular permeabilities | - | Charge-dependent Schmitt | [Kawai 1994](#5) | Cellular permeabilities calculated with the charge-dependent Schmitt method. |
 | Partition coefficients | - | Rodgers and Rowland | [Rodgers 2006](#5) | Tissue-to-plasma partition coefficients calculated with the Rodgers and Rowland method. |
 | GFR fraction | - | 1 | Assumed | Fraction used to scale passive glomerular filtration. |
@@ -52,8 +52,8 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | MW | g/mol | 505.40 | [Chemicalize 2022](#5) | Molecular weight. |
 | logP | - | 4.20 | [Chemicalize 2022](#5) | Octanol-water partition coefficient of the neutral species. |
 | f<sub>u</sub> | % | 1 | [Heel 1982](#5) | Fraction unbound in plasma. |
-| pK<sub>a</sub> | - | 3.42<sup>a</sup> | [Chemicalize 2022](#5) | Acid dissociation constant. |
-| pK<sub>a</sub> | - | 6.42<sup>a</sup> | [Chemicalize 2022](#5) | Acid dissociation constant. |
+| pK<sub>a</sub>,base | - | 3.42 | [Chemicalize 2022](#5) | pKa of a basic ionization site. |
+| pK<sub>a</sub>,base | - | 6.42 | [Chemicalize 2022](#5) | pKa of a basic ionization site. |
 | Solubility | mg/L | 4.40 × 10<sup>3</sup><sup>e</sup> | [Marok 2023](#5), Table 1 | Aqueous solubility at pH 6.5. |
 | P<sub>organ</sub> | cm/min | 0 | Assumed | Specific organ permeability. |
 | Cellular permeabilities | - | Charge-dependent Schmitt | [Kawai 1994](#5) | Cellular permeabilities calculated with the charge-dependent Schmitt method. |
@@ -64,9 +64,7 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | K<sub>i,CYP3A4</sub> | µmol/L | 0.022 | [Weiss 2022](#5) | Inhibition constant for CYP3A4, assumed equal to the N-deacetylketoconazole value. |
 | K<sub>i,P-gp</sub> | µmol/L | 0.119 | [Weiss 2022](#5) | Inhibition constant for P-gp. |
 
-**Table 1:**<a name="table-1"></a> Drug-dependent parameters used in the final ketoconazole model. AADAC: arylacetamide deacetylase. FMO3: flavin-containing monooxygenase 3. GFR: glomerular filtration rate. P-gp: P-glycoprotein. UGT1A4: uridine diphosphate glucuronosyltransferase 1A4. <sup>c</sup> The solubility units follow Table 1 of [Marok 2023](#5). Supplement Table S1.3 incorrectly labels these values as mg/mL. <sup>d</sup> Supplement Table S1.3 incorrectly labels the particle radii as nm. The snapshot values are equivalent to the listed µm values. <sup>e</sup> The approved value is 4.40 × 10<sup>3</sup> mg/L, equivalent to 4.40 mg/mL, as reported in Table 1 of [Marok 2023](#5). Supplement Table S1.3 is incorrect.
-
-<sup>a</sup> Basic.
+**Table 1:**<a name="table-1"></a> Drug-dependent parameters used in the final ketoconazole model. AADAC: arylacetamide deacetylase. FMO3: flavin-containing monooxygenase 3. GFR: glomerular filtration rate. P-gp: P-glycoprotein. UGT1A4: uridine diphosphate glucuronosyltransferase 1A4. <sup>c</sup> Parent ketoconazole values were converted from mg/mL in Table 1 of [Ghazal 2015](#5) to mg/L. Table 1 of [Marok 2023](#5) gives an incorrect pH 3 value and assigns pH 7 to the deionized-water value. <sup>d</sup> Supplement Table S1.3 incorrectly labels the particle radii as nm. The snapshot values are equivalent to the listed µm values. <sup>e</sup> The value is 4.40 × 10<sup>3</sup> mg/L, equivalent to 4.40 mg/mL, as reported in Table 1 of [Marok 2023](#5). Supplement Table S1.3 is incorrect.
 
 ### Clinical data
 
