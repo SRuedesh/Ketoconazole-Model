@@ -73,46 +73,6 @@
     "AllPlots": [
       {
         "Project": "Ketoconazole",
-        "Simulation": "Heel (1982), KTZ 200 mg solution, fasted (114)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (3)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (4)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Tiseo (1998), KTZ 200 mg solution, fasted (81)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Huang (1986), KTZ 400 mg solution, fasted (5)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Huang (1986), KTZ 800 mg solution, fasted (6)",
-        "SectionId": 331
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Heel (1982), KTZ 100 mg tablet, fasted (111)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
         "Simulation": "Boyce (2012), KTZ 200 mg tablet, fasted (10)",
         "SectionId": 332
       },
@@ -124,6 +84,26 @@
       {
         "Project": "Ketoconazole",
         "Simulation": "Chin (1995), KTZ 200 mg tablet, fasted (15)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Craven (1983), KTZ 1200 mg tablet, fed (128)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Craven (1983), KTZ 800 mg tablet, fed (127)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1981), KTZ 200 mg tablet, fed (109)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1981), KTZ 400 mg tablet, fed (110)",
         "SectionId": 332
       },
       {
@@ -143,6 +123,41 @@
       },
       {
         "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 200 mg tablet, fed (24)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fasted (21)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fed (25)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fasted (22)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fed (26)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fasted (23)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fed (27)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
         "Simulation": "FDA (1998), KTZ 200 mg tablet, fasted (85)",
         "SectionId": 332
       },
@@ -158,8 +173,48 @@
       },
       {
         "Project": "Ketoconazole",
+        "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (87)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (88)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Heel (1982), KTZ 100 mg tablet, fasted (111)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Heel (1982), KTZ 200 mg solution, fasted (114)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Ketoconazole",
         "Simulation": "Heel (1982), KTZ 200 mg tablet, fasted (112)",
         "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Heel (1982), KTZ 400 mg tablet, fasted (113)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (3)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Huang (1986), KTZ 200 mg solution, fasted (4)",
+        "SectionId": 331
       },
       {
         "Project": "Ketoconazole",
@@ -168,27 +223,42 @@
       },
       {
         "Project": "Ketoconazole",
+        "Simulation": "Huang (1986), KTZ 400 mg solution, fasted (5)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Huang (1986), KTZ 800 mg solution, fasted (6)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Ketoconazole",
         "Simulation": "Knupp (1993), KTZ 200 mg tablet, fasted (37)",
         "SectionId": 332
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)",
+        "Simulation": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44)",
         "SectionId": 332
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (40)",
+        "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (40)",
         "SectionId": 332
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (41)",
+        "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (41)",
         "SectionId": 332
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (42)",
+        "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (42)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Männistö (1982), KTZ 200 mg tablet, fed (43)",
         "SectionId": 332
       },
       {
@@ -198,17 +268,57 @@
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)",
+        "Simulation": "Piscitelli (1991), KTZ 400 mg tablet, fasted (77)",
         "SectionId": 332
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)",
+        "Simulation": "Polk (1999), KTZ 400 mg tablet, fasted (69)",
         "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (72)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (73)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
+        "SectionId": 331
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)",
+        "SectionId": 331
       },
       {
         "Project": "Ketoconazole",
         "Simulation": "Van der Meer (1980), KTZ 200 mg tablet, fasted ctrl (90)",
+        "SectionId": 332
+      },
+      {
+        "Project": "Ketoconazole",
+        "Simulation": "Weiss (2022), KTZ 400 mg tablet, fasted (168)",
         "SectionId": 332
       },
       {
@@ -225,122 +335,12 @@
         "Project": "Ketoconazole",
         "Simulation": "Yuen (1999), KTZ 200 mg tablet, fasted (97)",
         "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fasted (21)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Heel (1982), KTZ 400 mg tablet, fasted (113)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Piscitelli (1991), KTZ 400 mg tablet, fasted (77)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Polk (1999), KTZ 400 mg tablet, fasted (69)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (72)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Solomon (2007), KTZ 400 mg tablet, fasted (73)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Weiss (2022), KTZ 400 mg tablet, fasted (168)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fasted (22)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fasted (23)",
-        "SectionId": 332
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1981), KTZ 200 mg tablet, fed (109)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 200 mg tablet, fed (24)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (87)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "FDA (1998), KTZ 200 mg tablet, fed (88)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fed (43)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Sekar (2008), KTZ 200 mg tablet, fed (103)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1981), KTZ 400 mg tablet, fed (110)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 400 mg tablet, fed (25)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 600 mg tablet, fed (26)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Craven (1983), KTZ 800 mg tablet, fed (127)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Daneshmend (1984), KTZ 800 mg tablet, fed (27)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Craven (1983), KTZ 1200 mg tablet, fed (128)",
-        "SectionId": 333
-      },
-      {
-        "Project": "Ketoconazole",
-        "Simulation": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)",
-        "SectionId": 334
       }
     ],
     "GOFMergedPlots": [
-      {
-        "Title": "Observed versus simulated concentration-time data for all modeled compounds",
-        "SectionId": 32,
+{
+        "Title": "Ketoconazole goodness-of-fit diagnostics",
+        "SectionId": 321,
         "Artifacts": [
           "Plot",
           "GMFE",
@@ -406,9 +406,9 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Tiseo (1998), KTZ 200 mg solution, fasted (81)",
+                "Simulation": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole",
+                "ObservedData": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
@@ -504,30 +504,30 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (40)",
+                "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (40)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole",
+                "ObservedData": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (41)",
+                "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (41)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole",
+                "ObservedData": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fasted (42)",
+                "Simulation": "Männistö (1982), KTZ 200 mg tablet, fasted (42)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole",
+                "ObservedData": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)",
+                "Simulation": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole",
+                "ObservedData": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
@@ -539,16 +539,16 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)",
+                "Simulation": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole",
+                "ObservedData": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)",
+                "Simulation": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole",
+                "ObservedData": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
@@ -637,9 +637,9 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Sekar (2008), KTZ 200 mg tablet, fed (103)",
+                "Simulation": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole",
+                "ObservedData": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
@@ -700,16 +700,16 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Mannistö (1982), KTZ 200 mg tablet, fed (43)",
+                "Simulation": "Männistö (1982), KTZ 200 mg tablet, fed (43)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole",
+                "ObservedData": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)",
+                "Simulation": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole",
+                "ObservedData": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole",
                 "Color": "#FF0000"
               },
               {
@@ -727,7 +727,22 @@
                 "Color": "#FF0000"
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "Title": "N-deacetylketoconazole goodness-of-fit diagnostics",
+        "SectionId": 322,
+        "Artifacts": [
+          "Plot",
+          "GMFE",
+          "Measure"
+        ],
+        "PlotTypes": [
+          "predictedVsObserved",
+          "residualsOverTime"
+        ],
+        "Groups": [
           {
             "Caption": "N-deacetylketoconazole",
             "Symbol": "Square",
@@ -805,7 +820,19 @@
         {
           "Id": 32,
           "Title": "Diagnostic plots",
-          "Content": "Content/GOF_diagnostics.md"
+          "Content": "Content/GOF_diagnostics.md",
+          "Sections": [
+            {
+              "Id": 321,
+              "Title": "Ketoconazole goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_ketoconazole.md"
+            },
+            {
+              "Id": 322,
+              "Title": "N-deacetylketoconazole goodness-of-fit diagnostics",
+              "Content": "Content/GOF_diagnostics_n_deacetylketoconazole.md"
+            }
+          ]
         },
         {
           "Id": 33,
@@ -814,23 +841,13 @@
           "Sections": [
             {
               "Id": 331,
-              "Title": "Solution and capsule-as-solution studies",
-              "Content": "Content/Concentration_time_profiles_solution.md"
+              "Title": "Model Building",
+              "Content": "Content/Concentration_time_profiles_building.md"
             },
             {
               "Id": 332,
-              "Title": "Fasted tablet studies",
-              "Content": "Content/Concentration_time_profiles_fasted_tablet.md"
-            },
-            {
-              "Id": 333,
-              "Title": "Fed tablet and food-effect studies",
-              "Content": "Content/Concentration_time_profiles_fed.md"
-            },
-            {
-              "Id": 334,
-              "Title": "Multiple-dose studies",
-              "Content": "Content/Concentration_time_profiles_multiple_dose.md"
+              "Title": "Model Verification",
+              "Content": "Content/Concentration_time_profiles_verification.md"
             }
           ]
         }

@@ -1055,7 +1055,7 @@
       ]
     },
     {
-      "Name": "Mannistö 1982 male",
+      "Name": "Männistö 1982 male",
       "Seed": 50714671,
       "OriginData": {
         "CalculationMethods": [
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "Name": "Sadeghina 2005 - male",
+      "Name": "Sadeghnia 2005 - male",
       "Seed": 48970281,
       "OriginData": {
         "CalculationMethods": [
@@ -1433,7 +1433,7 @@
       ]
     },
     {
-      "Name": "Mannistö 1982 male fed",
+      "Name": "Männistö 1982 male fed",
       "Seed": 50714671,
       "OriginData": {
         "CalculationMethods": [
@@ -3621,7 +3621,7 @@
           "Parameters": [
             {
               "Name": "Solubility at reference pH",
-              "Value": 0.0044,
+              "Value": 4.4,
               "Unit": "mg/ml",
               "ValueOrigin": {
                 "Source": "Internet",
@@ -5842,7 +5842,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Knupp 1993: KTZ 200 mg tablet, fasted (37)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6131,7 +6131,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Heel 1982: KTZ 200 mg solution, fasted (114)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6420,7 +6420,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1986: KTZ 200 mg solution, fasted (3)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6709,7 +6709,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1986: KTZ 200 mg solution, fasted (4)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6998,7 +6998,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1986: KTZ 400 mg solution, fasted (5)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -7287,7 +7287,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1986: KTZ 800 mg solution, fasted (6)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -7736,7 +7736,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1983: KTZ 200 mg tablet, fasted (29)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -8215,7 +8215,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Patel 2011: KTZ 200 mg tablet, fasted (65)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -8270,10 +8270,10 @@
       ]
     },
     {
-      "Name": "Tiseo (1998), KTZ 200 mg solution, fasted (81)",
+      "Name": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)",
       "Model": "4Comp",
       "ObservedData": [
-        "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole"
+        "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -8618,18 +8618,18 @@
           ],
           "Curves": [
             {
-              "Name": "Tiseo (1998), KTZ 200 mg solution, fasted (81) simulated Ketoconazole",
+              "Name": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Tiseo (1998), KTZ 200 mg solution, fasted (81)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole observed",
-              "X": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole|Time",
-              "Y": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole observed",
+              "X": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole|Time",
+              "Y": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -8638,7 +8638,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Tiseo 1998: KTZ 200 mg solution, fasted (81)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -8656,7 +8656,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nTiseo (1998), KTZ 200 mg solution, fasted (81)\n2023-02-17 13:09"
+          "OriginText": "Ketoconazole - V11\nTiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)\n2023-02-17 13:09"
         }
       ],
       "Interactions": [
@@ -8949,7 +8949,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chin 1995: KTZ 200 mg tablet, fasted (15)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -9258,7 +9258,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1983: KTZ 200 mg tablet, fasted (28)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -9569,7 +9569,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 200 mg tablet, fasted (20)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -9878,7 +9878,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 400 mg tablet, fasted (21)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -10185,7 +10185,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 600 mg tablet, fasted (22)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -10496,7 +10496,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "FDA 1998: KTZ 200 mg tablet, fasted (86)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -10807,7 +10807,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "FDA 1998: KTZ 200 mg tablet, fasted (89)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -11120,7 +11120,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "FDA 1998: KTZ 200 mg tablet, fasted (85)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -11427,7 +11427,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Heel 1982: KTZ 100 mg tablet, fasted (111)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -11734,7 +11734,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Heel 1982: KTZ 200 mg tablet, fasted (112)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12041,7 +12041,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Heel 1982: KTZ 400 mg tablet, fasted (113)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12352,7 +12352,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1986: KTZ 200 mg tablet, fasted (1)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12407,10 +12407,10 @@
       ]
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (40)",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (40)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole"
+        "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -12482,7 +12482,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Mannistö 1982 male",
+      "Individual": "Männistö 1982 male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -12643,18 +12643,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (40) simulated Ketoconazole",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (40) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (40)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (40)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole observed",
-              "X": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole observed",
+              "X": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|Time",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -12663,7 +12663,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Männistö 1982: KTZ 200 mg tablet, fasted (40)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12681,7 +12681,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nMannistö (1982), KTZ 200 mg tablet, fasted (40)\n2023-02-17 13:50"
+          "OriginText": "Ketoconazole - V11\nMännistö (1982), KTZ 200 mg tablet, fasted (40)\n2023-02-17 13:50"
         }
       ],
       "Interactions": [
@@ -12718,10 +12718,10 @@
       ]
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (41)",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (41)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole"
+        "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -12793,7 +12793,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Mannistö 1982 male",
+      "Individual": "Männistö 1982 male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -12954,18 +12954,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (41) simulated Ketoconazole",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (41) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (41)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (41)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole observed",
-              "X": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole observed",
+              "X": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|Time",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -12974,7 +12974,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Männistö 1982: KTZ 200 mg tablet, fasted (41)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12992,7 +12992,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nMannistö (1982), KTZ 200 mg tablet, fasted (41)\n2023-02-17 13:50"
+          "OriginText": "Ketoconazole - V11\nMännistö (1982), KTZ 200 mg tablet, fasted (41)\n2023-02-17 13:50"
         }
       ],
       "Interactions": [
@@ -13029,10 +13029,10 @@
       ]
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (42)",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (42)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole"
+        "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -13104,7 +13104,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Mannistö 1982 male",
+      "Individual": "Männistö 1982 male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -13265,18 +13265,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (42) simulated Ketoconazole",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (42) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (42)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (42)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole observed",
-              "X": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole observed",
+              "X": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|Time",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -13285,7 +13285,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Männistö 1982: KTZ 200 mg tablet, fasted (42)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -13303,7 +13303,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nMannistö (1982), KTZ 200 mg tablet, fasted (42)\n2023-02-17 13:55"
+          "OriginText": "Ketoconazole - V11\nMännistö (1982), KTZ 200 mg tablet, fasted (42)\n2023-02-17 13:55"
         }
       ],
       "Interactions": [
@@ -13340,10 +13340,10 @@
       ]
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)",
+      "Name": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole"
+        "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -13415,7 +13415,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Mannistö 1982 male",
+      "Individual": "Männistö 1982 male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -13572,18 +13572,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44) simulated Ketoconazole",
+              "Name": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole observed",
-              "X": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole observed",
+              "X": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|Time",
+              "Y": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -13592,7 +13592,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Männistö 1982: KTZ 200 mg tablet juice, fasted (44)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -13610,7 +13610,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nMannistö (1982), KTZ 200 mg tablet juice, fasted (44)\n2023-02-17 13:56"
+          "OriginText": "Ketoconazole - V11\nMännistö (1982), KTZ 200 mg tablet juice, fasted (44)\n2023-02-17 13:56"
         }
       ],
       "Interactions": [
@@ -13899,7 +13899,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Polk 1999: KTZ 400 mg tablet, fasted (69)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -13954,10 +13954,10 @@
       ]
     },
     {
-      "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)",
+      "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole"
+        "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -14029,7 +14029,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Sadeghina 2005 - male",
+      "Individual": "Sadeghnia 2005 - male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -14186,18 +14186,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70) simulated Ketoconazole",
+              "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole observed",
-              "X": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole|Time",
-              "Y": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole observed",
+              "X": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole|Time",
+              "Y": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -14206,7 +14206,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sadeghnia 2005: KTZ 200 mg tablet, fasted (70)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -14224,7 +14224,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nSadeghina (2005), KTZ 200 mg tablet, fasted (70)\n2023-02-17 13:58"
+          "OriginText": "Ketoconazole - V11\nSadeghnia (2005), KTZ 400 mg tablet, fasted (70)\n2023-02-17 13:58"
         }
       ],
       "Interactions": [
@@ -14261,10 +14261,10 @@
       ]
     },
     {
-      "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)",
+      "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole"
+        "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -14336,7 +14336,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Sadeghina 2005 - male",
+      "Individual": "Sadeghnia 2005 - male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -14493,18 +14493,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71) simulated Ketoconazole",
+              "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole observed",
-              "X": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole|Time",
-              "Y": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole observed",
+              "X": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole|Time",
+              "Y": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -14513,7 +14513,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sadeghnia 2005: KTZ 200 mg tablet, fasted (71)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -14531,7 +14531,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nSadeghina (2005), KTZ 200 mg tablet, fasted (71)\n2023-02-17 13:58"
+          "OriginText": "Ketoconazole - V11\nSadeghnia (2005), KTZ 400 mg tablet, fasted (71)\n2023-02-17 13:58"
         }
       ],
       "Interactions": [
@@ -14820,7 +14820,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Solomon 2007: KTZ 400 mg tablet, fasted (72)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -15127,7 +15127,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Solomon 2007: KTZ 400 mg tablet, fasted (73)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -15434,7 +15434,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sriwiriyajan 2007: KTZ 400 mg solution, fasted (74)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -15741,7 +15741,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Piscitelli 1991: KTZ 400 mg tablet, fasted (77)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -16052,7 +16052,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Van der Meer 1980: KTZ 200 mg tablet, fasted ctrl (90)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -16395,7 +16395,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Weiss 2022: KTZ 400 mg tablet, fasted (168)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 14,
@@ -16706,7 +16706,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yuen 1999: KTZ 200 mg tablet, fasted (96)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -17017,7 +17017,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Yuen 1999: KTZ 200 mg tablet, fasted (97)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -17528,7 +17528,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Boyce 2012: KTZ 200 mg tablet, fasted (10)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18036,7 +18036,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Boyce 2012: KTZ 200 mg tablet, fasted (9)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18361,7 +18361,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Craven 1983: KTZ 1200 mg tablet, fed (128)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18686,7 +18686,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Craven 1983: KTZ 800 mg tablet, fed (127)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18741,10 +18741,10 @@
       ]
     },
     {
-      "Name": "Sekar (2008), KTZ 200 mg tablet, fed (103)",
+      "Name": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole"
+        "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -19096,18 +19096,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sekar (2008), KTZ 200 mg tablet, fed (103) simulated Ketoconazole",
+              "Name": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Sekar (2008), KTZ 200 mg tablet, fed (103)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole observed",
-              "X": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole|Time",
-              "Y": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole observed",
+              "X": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole|Time",
+              "Y": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -19116,7 +19116,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sekar 2008: KTZ 200 mg tablet, fed (103)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -19134,7 +19134,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nSekar (2008), KTZ 200 mg tablet, fed (103)\n2023-02-17 14:42"
+          "OriginText": "Ketoconazole - V11\nSekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)\n2023-02-17 14:42"
         }
       ],
       "Interactions": [
@@ -19473,7 +19473,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Wire 2007: KTZ 200 mg tablet, fasted (94)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -19782,7 +19782,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1981: KTZ 200 mg tablet, fed (109)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -20091,7 +20091,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1981: KTZ 400 mg tablet, fed (110)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -20398,7 +20398,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 200 mg tablet, fed (24)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -20711,7 +20711,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 600 mg tablet, fed (26)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -21018,7 +21018,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 800 mg tablet, fed (27)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -21329,7 +21329,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "FDA 1998: KTZ 200 mg tablet, fed (87)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -21640,7 +21640,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "FDA 1998: KTZ 200 mg tablet, fed (88)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -21695,10 +21695,10 @@
       ]
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fed (43)",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fed (43)",
       "Model": "4Comp",
       "ObservedData": [
-        "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole"
+        "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -21770,7 +21770,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Mannistö 1982 male fed",
+      "Individual": "Männistö 1982 male fed",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -21931,18 +21931,18 @@
           ],
           "Curves": [
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fed (43) simulated Ketoconazole",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fed (43) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fed (43)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fed (43)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole observed",
-              "X": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|Time",
-              "Y": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole observed",
+              "X": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|Time",
+              "Y": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -21951,7 +21951,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Männistö 1982: KTZ 200 mg tablet, fed (43)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -21969,7 +21969,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nMannistö (1982), KTZ 200 mg tablet, fed (43)\n2023-02-17 15:02"
+          "OriginText": "Ketoconazole - V11\nMännistö (1982), KTZ 200 mg tablet, fed (43)\n2023-02-17 15:02"
         }
       ],
       "Interactions": [
@@ -22006,10 +22006,10 @@
       ]
     },
     {
-      "Name": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)",
+      "Name": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)",
       "Model": "4Comp",
       "ObservedData": [
-        "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole"
+        "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -22323,18 +22323,18 @@
           ],
           "Curves": [
             {
-              "Name": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165) simulated Ketoconazole",
+              "Name": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole observed",
-              "X": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole|Time",
-              "Y": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole observed",
+              "X": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole|Time",
+              "Y": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -22343,7 +22343,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Greenblatt 1998: KTZ 200 mg tablet b.i.d. 5d, fed (165)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -22361,7 +22361,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nGreenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)\n2023-02-17 12:02"
+          "OriginText": "Ketoconazole - V11\nGreenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)\n2023-02-17 12:02"
         }
       ],
       "Interactions": [
@@ -22652,7 +22652,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 800 mg tablet, fasted (23)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -22959,7 +22959,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Daneshmend 1984: KTZ 400 mg tablet, fed (25)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -24163,7 +24163,7 @@
       }
     },
     {
-      "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole",
+      "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -24193,7 +24193,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -24218,7 +24218,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -24245,7 +24245,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (71), Ketoconazole|Time",
+          "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -24270,7 +24270,7 @@
       }
     },
     {
-      "Name": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole",
+      "Name": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -24300,7 +24300,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -24325,7 +24325,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -24352,7 +24352,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Sadeghina (2005), KTZ 200 mg tablet, fasted (70), Ketoconazole|Time",
+          "Path": "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -25938,7 +25938,7 @@
       }
     },
     {
-      "Name": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole",
+      "Name": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -25968,7 +25968,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -26003,7 +26003,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26040,7 +26040,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Tiseo (1998), KTZ 200 mg solution, fasted (81), Ketoconazole|Time",
+          "Path": "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -26271,7 +26271,7 @@
       }
     },
     {
-      "Name": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole",
+      "Name": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -26301,7 +26301,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -26324,7 +26324,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26349,7 +26349,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Sekar (2008), KTZ 200 mg tablet, fed (103), Ketoconazole|Time",
+          "Path": "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -26686,7 +26686,7 @@
       }
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole",
+      "Name": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -26716,7 +26716,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -26738,7 +26738,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26762,7 +26762,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|Time",
+          "Path": "Männistö (1982), KTZ 200 mg tablet juice, fasted (44), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -26784,7 +26784,7 @@
       }
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -26814,7 +26814,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -26836,7 +26836,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26860,7 +26860,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Mannistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|Time",
+          "Path": "Männistö (1982), KTZ 200 mg tablet, fed (43), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -26882,7 +26882,7 @@
       }
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -26912,7 +26912,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -26934,7 +26934,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26958,7 +26958,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|Time",
+          "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (42), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -26980,7 +26980,7 @@
       }
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -27010,7 +27010,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -27033,7 +27033,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -27058,7 +27058,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|Time",
+          "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (41), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -27081,7 +27081,7 @@
       }
     },
     {
-      "Name": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole",
+      "Name": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -27111,7 +27111,7 @@
             {
               "Name": "SD",
               "QuantityInfo": {
-                "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
+                "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|SD"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -27134,7 +27134,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -27159,7 +27159,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Mannistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|Time",
+          "Path": "Männistö (1982), KTZ 200 mg tablet, fasted (40), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -28858,7 +28858,7 @@
       }
     },
     {
-      "Name": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole",
+      "Name": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -28881,7 +28881,7 @@
         {
           "Name": "Concentration",
           "QuantityInfo": {
-            "Path": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -28909,7 +28909,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165), Ketoconazole|Time",
+          "Path": "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -28962,7 +28962,7 @@
               "Classifiables": [
                 "Daneshmend (1983), KTZ 200 mg tablet, fasted (29)",
                 "Patel (2011), KTZ 200 mg tablet, fasted (65)",
-                "Tiseo (1998), KTZ 200 mg solution, fasted (81)",
+                "Tiseo (1998), KTZ 200 mg tablet, once daily for 7 days, fasted (81)",
                 "Boyce (2012), KTZ 200 mg tablet, fasted (10)",
                 "Boyce (2012), KTZ 200 mg tablet, fasted (9)"
               ]
@@ -28983,13 +28983,13 @@
                 "Heel (1982), KTZ 400 mg tablet, fasted (113)",
                 "Huang (1986), KTZ 200 mg tablet, fasted (1)",
                 "Knupp (1993), KTZ 200 mg tablet, fasted (37)",
-                "Mannistö (1982), KTZ 200 mg tablet, fasted (40)",
-                "Mannistö (1982), KTZ 200 mg tablet, fasted (41)",
-                "Mannistö (1982), KTZ 200 mg tablet, fasted (42)",
-                "Mannistö (1982), KTZ 200 mg tablet juice, fasted (44)",
+                "Männistö (1982), KTZ 200 mg tablet, fasted (40)",
+                "Männistö (1982), KTZ 200 mg tablet, fasted (41)",
+                "Männistö (1982), KTZ 200 mg tablet, fasted (42)",
+                "Männistö (1982), KTZ 200 mg tablet juice, fasted (44)",
                 "Polk (1999), KTZ 400 mg tablet, fasted (69)",
-                "Sadeghina (2005), KTZ 200 mg tablet, fasted (70)",
-                "Sadeghina (2005), KTZ 200 mg tablet, fasted (71)",
+                "Sadeghnia (2005), KTZ 400 mg tablet, fasted (70)",
+                "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)",
                 "Solomon (2007), KTZ 400 mg tablet, fasted (72)",
                 "Solomon (2007), KTZ 400 mg tablet, fasted (73)",
                 "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
@@ -29022,7 +29022,7 @@
                 "Daneshmend (1984), KTZ 800 mg tablet, fed (27)",
                 "FDA (1998), KTZ 200 mg tablet, fed (87)",
                 "FDA (1998), KTZ 200 mg tablet, fed (88)",
-                "Mannistö (1982), KTZ 200 mg tablet, fed (43)",
+                "Männistö (1982), KTZ 200 mg tablet, fed (43)",
                 "Daneshmend (1984), KTZ 400 mg tablet, fed (25)"
               ]
             },
@@ -29031,8 +29031,8 @@
               "Classifiables": [
                 "Craven (1983), KTZ 1200 mg tablet, fed (128)",
                 "Craven (1983), KTZ 800 mg tablet, fed (127)",
-                "Sekar (2008), KTZ 200 mg tablet, fed (103)",
-                "Greenblatt (1998), KTZ 200 mg tablet b.i.d. 5d, fed (165)"
+                "Sekar (2008), KTZ 200 mg tablet, twice daily for 4 days, fed (103)",
+                "Greenblatt (1998), KTZ 200 mg tablet, twice daily for 5 days, fed (165)"
               ]
             }
           ]

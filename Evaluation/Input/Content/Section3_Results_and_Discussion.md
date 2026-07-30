@@ -1,5 +1,13 @@
-The concentration-time profiles cover oral solution, capsule-as-solution and tablet administration under fasted and fed conditions. The model reproduced the broad exposure range across doses and formulations, including the delayed and reduced absorption observed in fed tablet scenarios.
+The parent-metabolite PBPK model for ketoconazole was developed and evaluated with clinical pharmacokinetic data after oral administration. The evaluation covers doses from 100 to 1200 mg, single-dose and multiple-dose regimens, solution and solid oral formulations, fasted and fed conditions, and plasma observations for ketoconazole and N-deacetylketoconazole.
 
-The ketoconazole goodness-of-fit diagnostics summarize the parent plasma data across the full clinical dataset. N-deacetylketoconazole diagnostics are shown separately because metabolite observations are only available from the Weiss et al. study. This split avoids mixing parent and metabolite observations in a single legend and keeps analyte-specific performance interpretable.
+Model-building studies included solution data from [Heel 1982](#5) and [Huang 1986](#5), a multiple-dose tablet study from [Tiseo 1998](#5), and a 400 mg solid oral study from [Sriwiriyajan 2007](#5). Verification used independent solution and tablet studies across the evaluated dose, regimen, and food conditions. N-deacetylketoconazole observations were available from [Weiss 2022](#5).
 
-In the model publication, the parent-metabolite model described 53 plasma concentration-time profiles, with 49/53 profiles, 50/53 AUC<sub>last</sub> values and 52/53 C<sub>max</sub> values within twofold [Marok 2023](#5-references), Table 2. DFI performance was adequate across the evaluated food-effect ratios, with 7/7 AUC<sub>last</sub> and C<sub>max</sub> ratios within the reported acceptance limits [Marok 2023](#5-references), Table 3. For DDI simulations, including ketoconazole and both metabolites as CYP3A4 and P-gp inhibitors improved perpetrator performance compared with parent-only inhibition [Marok 2023](#5-references).
+The model includes formulation-dependent absorption, arylacetamide deacetylase-mediated N-deacetylketoconazole formation, CYP3A4 and UGT metabolism, P-gp transport, and reversible CYP3A4 and P-gp inhibition by ketoconazole and its metabolites. Goodness-of-fit diagnostics are separated for ketoconazole and N-deacetylketoconazole because metabolite observations are limited to one study.
+
+The next sections show:
+
+1. the final model input parameters for the building blocks in [Section 3.1](#31).
+2. analyte-specific goodness-of-fit diagnostics in [Section 3.2](#32).
+3. simulated vs. observed concentration-time profiles for model building and verification in [Section 3.3](#33).
+
+Interpretation is limited by the absence of intravenous data, estimated formulation and food-effect parameters, incomplete CYP3A4 and P-gp kinetic information, and sparse metabolite observations.
