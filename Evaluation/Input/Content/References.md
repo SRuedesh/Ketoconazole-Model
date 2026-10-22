@@ -8,7 +8,7 @@
 
 [5] D Schwab, H Fischer, A Tabatabaei, S Poli, J Huwyler. Comparison of in Vitro P-Glycoprotein Screening Assays: Recommendations for Their Use in Drug Discovery. J Med Chem, 2003;46:1716-1725. doi: [10.1021/jm021012t](https://doi.org/10.1021/jm021012t).
 
-[6] K Bourcier, R Hyland, S Kempshall, R Jones, J Maximilien, N Irvine, B Jones. Investigation into UDP-Glucuronosyltransferase enzyme kinetics of imidazole- and triazole-containing antifungal drugs in human liver microsomes and recombinant UGT enzymes. Drug Metab Dispos, 2010;38:923-929. doi: [10.1124/dmd.109.030676](https://doi.org/10.1124/dmd.109.030676).
+[6] K Bourcier, R Hyland, S Kempshall, R Jones, J Maximilien, N Irvine, B Jones. Investigation into UDP-Glucuronosyltransferase (UGT) enzyme kinetics of imidazole- and triazole-containing antifungal drugs in human liver microsomes and recombinant UGT enzymes. Drug Metab Dispos, 2010;38:923-929. doi: [10.1124/dmd.109.030676](https://doi.org/10.1124/dmd.109.030676).
 
 [7] R C Heel, R N Brogden, A Carmine, P A Morley, T M Speight, G S Avery. Ketoconazole: A Review of its Therapeutic Efficacy in Superficial and Systemic Fungal Infections. Drugs, 1982;23:1-36. doi: [10.2165/00003495-198223010-00001](https://doi.org/10.2165/00003495-198223010-00001).
 
@@ -16,7 +16,7 @@
 
 [9] T K Daneshmend, D W Warnock. Clinical Pharmacokinetics of Ketoconazole. Clin Pharmacokinet, 1988;14:13-34. doi: [10.2165/00003088-198814010-00002](https://doi.org/10.2165/00003088-198814010-00002).
 
-[10] T K Daneshmend, D W Warnock, E M Johnson, G Parker, M D Richardson, C J C Roberts. Multiple dose pharmacokinetics of ketoconazole and their effects on antipyrine kinetics in man. J Antimicrob Chemother, 1983;12:185-188. doi: [10.1093/jac/12.2.185](https://doi.org/10.1093/jac/12.2.185).
+[10] T K Daneshmend, D W Warnock, M D Ene, E M Johnson, G Parker, M D Richardson, C J C Roberts. Multiple dose pharmacokinetics of ketoconazole and their effects on antipyrine kinetics in man. J Antimicrob Chemother, 1983;12:185-188. doi: [10.1093/jac/12.2.185](https://doi.org/10.1093/jac/12.2.185).
 
 [11] T K Daneshmend, D W Warnock, M D Ene, E M Johnson, M R Potten, M D Richardson, P J Williamson. Influence of food on the pharmacokinetics of ketoconazole. Antimicrob Agents Chemother, 1984;25:1-3. doi: [10.1128/AAC.25.1.1](https://doi.org/10.1128/AAC.25.1.1).
 
@@ -38,7 +38,7 @@
 
 [20] U.S. Food and Drug Administration. Bioequivalence, application number 74-971. 1998.
 
-[21] C A Knupp, D C Brater, J Relue, R H Barbhaiya. Pharmacokinetics of didanosine and ketoconazole after coadministration to patients seropositive for the human immunodeficiency virus. J Clin Pharmacol, 1993;33:912-917.
+[21] C A Knupp, D C Brater, J Relue, R H Barbhaiya. Pharmacokinetics of didanosine and ketoconazole after coadministration to patients seropositive for the human immunodeficiency virus. J Clin Pharmacol, 1993;33:912-917. doi: [10.1002/j.1552-4604.1993.tb01921.x](https://doi.org/10.1002/j.1552-4604.1993.tb01921.x).
 
 [22] H R Sadeghnia, M Hassanzadeh-Khayyat. Bioequivalency study of two formulations of ketoconazole tablet in healthy volunteers. Iran J Pharm Sci, 2005;1:209-215.
 
@@ -58,9 +58,9 @@
 
 [30] V J Sekar, E Lefebvre, M De Pauw, T Vangeneugden, R M W Hoetelmans. Pharmacokinetics of darunavir/ritonavir and ketoconazole following co-administration in HIV-negative healthy volunteers. Br J Clin Pharmacol, 2008;66:215-221. doi: [10.1111/j.1365-2125.2008.03191.x](https://doi.org/10.1111/j.1365-2125.2008.03191.x).
 
-[31] Chemicalize. Ketoconazole entry. Accessed 2021-05-01.
+[31] Chemicalize. Ketoconazole entry. 2021. Accessed 2021-05-01.
 
-[32] H S Ghazal, A M Dyas, J L Ford, G A Hutcheon. The impact of food components on the intrinsic dissolution rate of ketoconazole. Drug Dev Ind Pharm, 2015;41:1647-1654.
+[32] H S Ghazal, A M Dyas, J L Ford, G A Hutcheon. The impact of food components on the intrinsic dissolution rate of ketoconazole. Drug Dev Ind Pharm, 2015;41:1647-1654. doi: [10.3109/03639045.2014.983114](https://doi.org/10.3109/03639045.2014.983114).
 
 [33] ChemSpider. Ketoconazole entry. Accessed 2021-05-01. [https://www.chemspider.com/Chemical-Structure.401695.html](https://www.chemspider.com/Chemical-Structure.401695.html).
 
@@ -72,12 +72,12 @@
 
 [37] E J Elder, J C Evans, B D Scherzer, J E Hitt, G B Kupperblatt, S A Saghir, D A Markham. Preparation, characterization, and scale-up of ketoconazole with enhanced dissolution and bioavailability. Drug Dev Ind Pharm, 2007;33:755-765. doi: [10.1080/03639040601031882](https://doi.org/10.1080/03639040601031882).
 
-[38] Chemicalize. N-deacetylketoconazole entry. Accessed 2021-05-01.
+[38] Chemicalize. N-deacetylketoconazole entry. 2021b. Accessed 2021-05-01.
 
-[39] R Kawai, M Lemaire, J L Steimer, A Bruelisauer, W Niederberger, M Rowland. Physiologically based pharmacokinetic study on a cyclosporin derivative, SDZ IMM 125. J Pharmacokinet Biopharm, 1994;22:327-365.
+[39] R Kawai, M Lemaire, J L Steimer, A Bruelisauer, W Niederberger, M Rowland. Physiologically based pharmacokinetic study on a cyclosporin derivative, SDZ IMM 125. J Pharmacokinet Biopharm, 1994;22:327-365. doi: [10.1007/BF02353860](https://doi.org/10.1007/BF02353860).
 
 [40] T Rodgers, M Rowland. Physiologically based pharmacokinetic modelling 2: predicting the tissue distribution of acids, very weak bases, neutrals and zwitterions. J Pharm Sci, 2006;95:1238-1257. doi: [10.1002/jps.20502](https://doi.org/10.1002/jps.20502).
 
 [41] R J Rodriguez, D Acosta. Metabolism of ketoconazole and deacetylated ketoconazole by rat hepatic microsomes and flavin-containing monooxygenases. Drug Metab Dispos, 1997;25:772-777.
 
-[42] Chemicalize. N-deacetyl-N-hydroxyketoconazole entry. Accessed 2021-05-01.
+[42] Chemicalize. N-deacetyl-N-hydroxyketoconazole entry. 2022. Accessed 2021-05-01.

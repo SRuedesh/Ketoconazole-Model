@@ -1,1 +1,1 @@
-Concentration-time profiles are grouped by formulation and dosing context. Solution and capsule-as-solution scenarios are shown separately from tablet studies because they inform different absorption assumptions.
+Concentration-time profiles are grouped into model building and model verification. [Table 2](#table-2) gives the dose, schedule, food condition, and formulation of each profile.

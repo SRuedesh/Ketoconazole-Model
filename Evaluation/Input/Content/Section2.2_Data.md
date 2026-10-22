@@ -1,6 +1,6 @@
 ### In vitro and physicochemical data
 
-Table 1 gives the drug-dependent parameters used in the final model. Values were checked against the model snapshot, Table 1, and Supplement Table S1.3 of [Marok 2023](#5). Approved corrections are documented in the table notes. Optimized values are identified as such. Assumed values are traced to the basis stated in the supplement.
+Table 1 gives the drug-dependent parameters used in the final model. The table notes document corrections to values in Table 1 and Supplement Table S1.3 of [Marok 2023](#5). Optimized values are identified as such. Assumed values are traced to the basis stated in the supplement.
 
 | Parameter | Unit | Value | Source | Description |
 | --- | --- | ---: | --- | --- |
@@ -10,7 +10,7 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | f<sub>u</sub> | % | 1 | [Heel 1982](#5) | Fraction unbound in plasma. |
 | pK<sub>a</sub>,base | - | 2.94 | [Chemicalize 2021](#5) | pKa of a basic ionization site. |
 | pK<sub>a</sub>,base | - | 6.51 | [Chemicalize 2021](#5) | pKa of a basic ionization site. |
-| Solubility | mg/L | 2.033 × 10<sup>4</sup> (pH 1.2); 4.3 × 10<sup>2</sup> (pH 3); 1.0 × 10<sup>2</sup> (pH 5); 7.00 (pH 6.8); 6.00 (pH 7.5); 5.40 (deionized water)<sup>c</sup> | [Ghazal 2015](#5), Table 1 | Aqueous solubility in the specified media. |
+| Solubility | mg/L | 2.033 × 10<sup>4</sup> (pH 1.2); 4.3 × 10<sup>2</sup> (pH 3); 1.0 × 10<sup>2</sup> (pH 5); 7.00 (pH 6.8); 6.00 (pH 7.5); 5.40 (deionized water)<sup>a</sup> | [Ghazal 2015](#5), Table 1 | Aqueous solubility in the specified media. |
 | Density | g/cm<sup>3</sup> | 1.40 | [ChemSpider 2021](#5) | Solid-state density. |
 | D<sub>aq</sub> | dm<sup>2</sup>/min | 3.75 × 10<sup>−7</sup> | Optimized | Aqueous diffusion coefficient. |
 | P<sub>int</sub>, fasted | cm/min | 1.56 × 10<sup>−5</sup> | Optimized | Specific transcellular intestinal permeability in the fasted state. |
@@ -31,7 +31,7 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | k<sub>cat,P-gp</sub> | min<sup>−1</sup> | 0.33 | Optimized | Catalytic rate constant for P-glycoprotein transport. |
 | K<sub>i,CYP3A4</sub> | µmol/L | 0.00846 | [Weiss 2022](#5) | Inhibition constant for CYP3A4, derived from IC<sub>50</sub>. |
 | K<sub>i,P-gp</sub> | µmol/L | 0.035 | [Weiss 2022](#5) | Inhibition constant for P-gp. |
-| Particle radius | µm | 11.749; 111.06; 205.46<sup>d</sup> | [Elder 2007](#5) | Particle radii assigned to the specified dose fractions. |
+| Particle radius | µm | 11.749; 111.06; 205.46<sup>b</sup> | [Elder 2007](#5) | Particle radii assigned to the specified dose fractions. |
 | **N-deacetylketoconazole** |  |  |  |  |
 | MW | g/mol | 489.40 | [Chemicalize 2021b](#5) | Molecular weight. |
 | logP | - | 3.75 | Optimized | Octanol-water partition coefficient of the neutral species. |
@@ -44,7 +44,7 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | Partition coefficients | - | Rodgers and Rowland | [Rodgers 2006](#5) | Tissue-to-plasma partition coefficients calculated with the Rodgers and Rowland method. |
 | GFR fraction | - | 1 | Assumed | Fraction used to scale passive glomerular filtration. |
 | EHC fraction | - | 1 | Assumed | Fraction released continuously into bile. |
-| K<sub>m,FMO3</sub> | µmol/L | 1.17 | [Rodriguez 1997](#5) | Michaelis constant for FMO3-mediated N-oxidation. |
+| K<sub>m,FMO3</sub> | µmol/L | 1.17<sup>d</sup> | [Rodriguez 1997](#5) | Michaelis constant for FMO3-mediated N-oxidation. |
 | k<sub>cat,FMO3</sub> | min<sup>−1</sup> | 378.65 | Optimized | Catalytic rate constant for FMO3-mediated N-oxidation. |
 | K<sub>i,CYP3A4</sub> | µmol/L | 0.022 | [Weiss 2022](#5) | Inhibition constant for CYP3A4, derived from IC<sub>50</sub>. |
 | K<sub>i,P-gp</sub> | µmol/L | 0.119 | [Weiss 2022](#5) | Inhibition constant for P-gp. |
@@ -54,7 +54,7 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | f<sub>u</sub> | % | 1 | [Heel 1982](#5) | Fraction unbound in plasma. |
 | pK<sub>a</sub>,base | - | 3.42 | [Chemicalize 2022](#5) | pKa of a basic ionization site. |
 | pK<sub>a</sub>,base | - | 6.42 | [Chemicalize 2022](#5) | pKa of a basic ionization site. |
-| Solubility | mg/L | 4.40 × 10<sup>3</sup><sup>e</sup> | [Marok 2023](#5), Table 1 | Aqueous solubility at pH 6.5. |
+| Solubility | mg/L | 4.40 × 10<sup>3</sup><sup>c</sup> | [Marok 2023](#5), Table 1 | Aqueous solubility at pH 6.5. |
 | P<sub>organ</sub> | cm/min | 0 | Assumed | Specific organ permeability. |
 | Cellular permeabilities | - | Charge-dependent Schmitt | [Kawai 1994](#5) | Cellular permeabilities calculated with the charge-dependent Schmitt method. |
 | Partition coefficients | - | Berezhkovskiy | [Berezhkovskiy 2004](#5) | Tissue-to-plasma partition coefficients calculated with the Berezhkovskiy method. |
@@ -62,13 +62,13 @@ Table 1 gives the drug-dependent parameters used in the final model. Values were
 | EHC fraction | - | 1 | Assumed | Fraction released continuously into bile. |
 | CL<sub>FMO3</sub> | L/(µmol·min) | 0.09 | Optimized | FMO3-mediated clearance. |
 | K<sub>i,CYP3A4</sub> | µmol/L | 0.022 | [Weiss 2022](#5) | Inhibition constant for CYP3A4, assumed equal to the N-deacetylketoconazole value. |
-| K<sub>i,P-gp</sub> | µmol/L | 0.119 | [Weiss 2022](#5) | Inhibition constant for P-gp. |
+| K<sub>i,P-gp</sub> | µmol/L | 0.119<sup>e</sup> | [Weiss 2022](#5) | Inhibition constant for P-gp. |
 
-**Table 1:**<a name="table-1"></a> Drug-dependent parameters used in the final ketoconazole model. AADAC: arylacetamide deacetylase. FMO3: flavin-containing monooxygenase 3. GFR: glomerular filtration rate. P-gp: P-glycoprotein. UGT1A4: uridine diphosphate glucuronosyltransferase 1A4. <sup>c</sup> Parent ketoconazole values were converted from mg/mL in Table 1 of [Ghazal 2015](#5) to mg/L. Table 1 of [Marok 2023](#5) gives an incorrect pH 3 value and assigns pH 7 to the deionized-water value. <sup>d</sup> Supplement Table S1.3 incorrectly labels the particle radii as nm. The snapshot values are equivalent to the listed µm values. <sup>e</sup> The value is 4.40 × 10<sup>3</sup> mg/L, equivalent to 4.40 mg/mL, as reported in Table 1 of [Marok 2023](#5). Supplement Table S1.3 is incorrect.
+**Table 1:**<a name="table-1"></a> Drug-dependent parameters used in the final ketoconazole model. AADAC: arylacetamide deacetylase. FMO3: flavin-containing monooxygenase 3. GFR: glomerular filtration rate. P-gp: P-glycoprotein. UGT1A4: uridine diphosphate glucuronosyltransferase 1A4. <sup>a</sup> Parent ketoconazole values were converted from mg/mL in Table 1 of [Ghazal 2015](#5) to mg/L. Table 1 of [Marok 2023](#5) gives an incorrect pH 3 value and assigns pH 7 to the deionized-water value. <sup>b</sup> Supplement Table S1.3 incorrectly labels the particle radii as nm. The model values are equivalent to the listed µm values. <sup>c</sup> The value is 4.40 × 10<sup>3</sup> mg/L, equivalent to 4.40 mg/mL, as reported in Table 1 of [Marok 2023](#5). Supplement Table S1.3 is incorrect. <sup>d</sup> Table 1 of [Marok 2023](#5) states 1.77 µmol/L. Supplement Table S1.3 states 1170 nmol/L, which is equal to the model value. <sup>e</sup> Assumed equal to the N-deacetylketoconazole value.
 
 ### Clinical data
 
-Clinical plasma concentration-time profiles were taken from the published studies compiled for the model publication ([Marok 2023](#5)). The evaluation includes 53 oral profiles across solution, tablet, capsule, fasted, fed, single-dose, and multiple-dose conditions ([Table 2](#table-2)). Seven profiles were used for model building, and 46 profiles were used for model verification. When a source publication also describes an interaction study, this compound report includes only ketoconazole or metabolite pharmacokinetics and does not evaluate victim-drug exposure.
+Clinical plasma concentration-time profiles were taken from the published studies compiled for the model publication ([Marok 2023](#5)). The evaluation includes 53 oral profiles across solution, tablet, capsule, fasted, fed, single-dose, and multiple-dose conditions ([Table 2](#table-2)). Seven profiles were used for model building, and 46 profiles were used for model verification. This assignment differs from the training and test assignment in the model publication. When a source publication also describes an interaction study, this compound report includes only ketoconazole or metabolite pharmacokinetics and does not evaluate victim-drug exposure. The model file contains five more observed-data sets that this report does not evaluate. Three are plasma profiles without a simulation in the model file. Two are the fractions excreted to faeces ([Daneshmend 1988](#5)) and urine ([Heel 1982](#5)).
 
 | Source | Dose [mg] / schedule\* | Age [years] | Weight [kg] | Sex | N | Form. | CYP2D6 characterization |
 | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -77,7 +77,7 @@ Clinical plasma concentration-time profiles were taken from the published studie
 | [Chin 1995](#5) | 200, fasted | 22–41 | NR | 33.34% female | 9 | Tablet | EM |
 | [Craven 1983](#5) | 1200, multiple dose, fed | NR | NR | NR | 2 | Tablet | EM |
 | [Craven 1983](#5) | 800, multiple dose, fed | NR | NR | NR | 2 | Tablet | EM |
-| [Daneshmend 1981](#5) | 200, fed | NR | NR | NR | NR | Tablet | EM |
+| [Daneshmend 1981](#5) | 200, fed | NR | NR | NR | 6 | Tablet | EM |
 | [Daneshmend 1981](#5) | 400, fed | NR | NR | NR | NR | Tablet | EM |
 | [Daneshmend 1983](#5) | 200, fasted | 25 (21–46) | NR | Male | 8 | Tablet | EM |
 | [Daneshmend 1983](#5) | 200, multiple dose, fasted | 25 (21–46) | NR | Male | 8 | Tablet | EM |
@@ -113,12 +113,12 @@ Clinical plasma concentration-time profiles were taken from the published studie
 | [Sekar 2008](#5) | 200 twice daily for 4 days, fed | NR | NR | NR | NR | Tablet | EM |
 | [Solomon 2007](#5) | 400, profile 1, fasted | 23.2 (18–45) | NR | Male | 24 | Tablet | EM |
 | [Solomon 2007](#5) | 400, profile 2, fasted | 23.2 (18–45) | NR | Male | 24 | Tablet | EM |
-| [Sriwiriyajan 2007](#5)<sup>+</sup> | 400, fasted | 33.7 (22–55) | NR | 75% female | 12 | Tablet | EM |
+| [Sriwiriyajan 2007](#5)<sup>+</sup> | 400, fasted | 33.7 (22–55) | NR | 75% female | 12 | Capsule | EM |
 | [Tiseo 1998](#5)<sup>+</sup> | 200 once daily for 7 days, fasted | NR | NR | NR | 21 | Tablet | EM |
 | [U.S. FDA 1998](#5) | 200, profile 1, fasted | NR | NR | NR | 23 | Tablet | EM |
-| [U.S. FDA 1998](#5) | 200, profile 1, fed | NR | NR | NR | 39 | Tablet | EM |
+| [U.S. FDA 1998](#5) | 200, profile 1, fed | NR | NR | NR | 23 | Tablet | EM |
 | [U.S. FDA 1998](#5) | 200, profile 2, fasted | NR | NR | NR | 39 | Tablet | EM |
-| [U.S. FDA 1998](#5) | 200, profile 2, fed | NR | NR | NR | 39 | Tablet | EM |
+| [U.S. FDA 1998](#5) | 200, profile 2, fed | NR | NR | NR | 23 | Tablet | EM |
 | [U.S. FDA 1998](#5) | 200, profile 3, fasted | NR | NR | NR | 39 | Tablet | EM |
 | [Van der Meer 1980](#5) | 200, control, fasted | 28–42 | NR | NR | 3 | Tablet | EM |
 | [Weiss 2022](#5) | 400, fasted | 27.34 (20–48) | 74.44 (57.5–100) | Male | 12 | Tablet | EM |
@@ -126,4 +126,4 @@ Clinical plasma concentration-time profiles were taken from the published studie
 | [Yuen 1999](#5) | 200, profile 1, fasted | NR | NR | NR | 18 | Tablet | EM |
 | [Yuen 1999](#5) | 200, profile 2, fasted | NR | NR | NR | 18 | Tablet | EM |
 
-**Table 2:**<a name="table-2"></a> Clinical ketoconazole concentration-time profiles used for model building and verification. \*: Single oral dose unless otherwise specified; EM: extensive metabolizer; NR: not reported; <sup>+</sup>: data used for model building. EM is the model default when study-specific CYP2D6 information is not available. Food conditions are retained in the dose and schedule field.
+**Table 2:**<a name="table-2"></a> Clinical ketoconazole concentration-time profiles used for model building and verification. \*: Single oral dose unless otherwise specified; EM: extensive metabolizer; NR: not reported; <sup>+</sup>: data used for model building. EM is the model default when study-specific CYP2D6 information is not available. Food conditions are retained in the dose and schedule field. [Craven 1983](#5) studied patients with fungal infections of the central nervous system. [Knupp 1993](#5) studied HIV-seropositive patients. [Sriwiriyajan 2007](#5) studied HIV-infected patients. The [Sekar 2008](#5) simulation starts twice-daily dosing at 48 h and gives 9 doses up to the morning dose on day 7.

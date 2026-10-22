@@ -5050,7 +5050,7 @@
                 },
                 {
                   "Name": "InputDose",
-                  "Value": 396.01,
+                  "Value": 198.00355,
                   "Unit": "mg"
                 },
                 {
@@ -5072,7 +5072,7 @@
                 },
                 {
                   "Name": "InputDose",
-                  "Value": 3.583,
+                  "Value": 1.79149,
                   "Unit": "mg"
                 },
                 {
@@ -5094,7 +5094,7 @@
                 },
                 {
                   "Name": "InputDose",
-                  "Value": 0.40993,
+                  "Value": 0.20496,
                   "Unit": "mg"
                 },
                 {
@@ -7697,7 +7697,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": -0.6911163,
-              "Max": 5.793912,
+              "Max": 11,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
@@ -7736,7 +7736,7 @@
               }
             }
           ],
-          "Name": "Daneshmend 1983: KTZ 200 mg tablet, fasted (29)",
+          "Name": "Daneshmend 1983: KTZ 200 mg tablet b.i.d. 5d, fasted (29)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -8215,7 +8215,7 @@
               }
             }
           ],
-          "Name": "Patel 2011: KTZ 200 mg tablet, fasted (65)",
+          "Name": "Patel 2011: KTZ 200 mg tablet b.i.d. 6d, fasted (65)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -8638,7 +8638,7 @@
               }
             }
           ],
-          "Name": "Tiseo 1998: KTZ 200 mg solution, fasted (81)",
+          "Name": "Tiseo 1998: KTZ 200 mg tablet q.d. 7d, fasted (81)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -12171,7 +12171,7 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Standard European Female (P-gp modified, CYP3A4 36h)",
+      "Individual": "Huang 1986 male",
       "Compounds": [
         {
           "Name": "Ketoconazole",
@@ -14206,7 +14206,7 @@
               }
             }
           ],
-          "Name": "Sadeghnia 2005: KTZ 200 mg tablet, fasted (70)",
+          "Name": "Sadeghnia 2005: KTZ 400 mg tablet, fasted (70)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -14513,7 +14513,7 @@
               }
             }
           ],
-          "Name": "Sadeghnia 2005: KTZ 200 mg tablet, fasted (71)",
+          "Name": "Sadeghnia 2005: KTZ 400 mg tablet, fasted (71)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -15182,10 +15182,10 @@
       ]
     },
     {
-      "Name": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
+      "Name": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)",
       "Model": "4Comp",
       "ObservedData": [
-        "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole"
+        "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -15414,18 +15414,18 @@
           ],
           "Curves": [
             {
-              "Name": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74) simulated Ketoconazole",
+              "Name": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74) simulated Ketoconazole",
               "X": "Time",
-              "Y": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
+              "Y": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)|Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole observed",
-              "X": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole|Time",
-              "Y": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
+              "Name": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole observed",
+              "X": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole|Time",
+              "Y": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 2,
@@ -15434,7 +15434,7 @@
               }
             }
           ],
-          "Name": "Sriwiriyajan 2007: KTZ 400 mg solution, fasted (74)",
+          "Name": "Sriwiriyajan 2007: KTZ 400 mg capsule, fasted (74)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -15452,7 +15452,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Ketoconazole - V11\nSriwiriyajan (2007), KTZ 400 mg solution, fasted (74)\n2023-02-17 14:04"
+          "OriginText": "Ketoconazole - V11\nSriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)\n2023-02-17 14:04"
         }
       ],
       "Interactions": [
@@ -17528,7 +17528,7 @@
               }
             }
           ],
-          "Name": "Boyce 2012: KTZ 200 mg tablet, fasted (10)",
+          "Name": "Boyce 2012: KTZ 200 mg tablet b.i.d. 7d, fasted (10)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18036,7 +18036,7 @@
               }
             }
           ],
-          "Name": "Boyce 2012: KTZ 200 mg tablet, fasted (9)",
+          "Name": "Boyce 2012: KTZ 200 mg tablet b.i.d. 7d, fasted (9)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18361,7 +18361,7 @@
               }
             }
           ],
-          "Name": "Craven 1983: KTZ 1200 mg tablet, fed (128)",
+          "Name": "Craven 1983: KTZ 1200 mg tablet q.d. 2d, fed (128)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -18686,7 +18686,7 @@
               }
             }
           ],
-          "Name": "Craven 1983: KTZ 800 mg tablet, fed (127)",
+          "Name": "Craven 1983: KTZ 800 mg tablet q.d. 2d, fed (127)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -19116,7 +19116,7 @@
               }
             }
           ],
-          "Name": "Sekar 2008: KTZ 200 mg tablet, fed (103)",
+          "Name": "Sekar 2008: KTZ 200 mg tablet b.i.d., fed (103)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -19473,7 +19473,7 @@
               }
             }
           ],
-          "Name": "Wire 2007: KTZ 200 mg tablet, fasted (94)",
+          "Name": "Wire 2007: KTZ 200 mg tablet q.d. 4d, fasted (94)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -26485,7 +26485,7 @@
       }
     },
     {
-      "Name": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole",
+      "Name": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole",
       "ExtendedProperties": [
         {
           "Name": "Sheet",
@@ -26512,7 +26512,7 @@
         {
           "Name": "Concentration",
           "QuantityInfo": {
-            "Path": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
+            "Path": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole|ObservedData|Peripheral Venous Blood|Plasma|Ketoconazole|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -26541,7 +26541,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole|Time",
+          "Path": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -28992,7 +28992,7 @@
                 "Sadeghnia (2005), KTZ 400 mg tablet, fasted (71)",
                 "Solomon (2007), KTZ 400 mg tablet, fasted (72)",
                 "Solomon (2007), KTZ 400 mg tablet, fasted (73)",
-                "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
+                "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)",
                 "Piscitelli (1991), KTZ 400 mg tablet, fasted (77)",
                 "Van der Meer (1980), KTZ 200 mg tablet, fasted ctrl (90)",
                 "Weiss (2022), KTZ 400 mg tablet, fasted (168)",

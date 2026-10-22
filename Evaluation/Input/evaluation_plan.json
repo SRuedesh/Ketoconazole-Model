@@ -303,7 +303,7 @@
       },
       {
         "Project": "Ketoconazole",
-        "Simulation": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
+        "Simulation": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)",
         "SectionId": 331
       },
       {
@@ -567,9 +567,9 @@
               },
               {
                 "Project": "Ketoconazole",
-                "Simulation": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74)",
+                "Simulation": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74)",
                 "Output": "Organism|PeripheralVenousBlood|Ketoconazole|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "Sriwiriyajan (2007), KTZ 400 mg solution, fasted (74), Ketoconazole",
+                "ObservedData": "Sriwiriyajan (2007), KTZ 400 mg capsule, fasted (74), Ketoconazole",
                 "Color": "#FF0000"
               },
               {

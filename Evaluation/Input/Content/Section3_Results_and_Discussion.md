@@ -1,8 +1,8 @@
 The parent-metabolite PBPK model for ketoconazole was developed and evaluated with clinical pharmacokinetic data after oral administration. The evaluation covers doses from 100 to 1200 mg, single-dose and multiple-dose regimens, solution and solid oral formulations, fasted and fed conditions, and plasma observations for ketoconazole and N-deacetylketoconazole.
 
-Model-building studies included solution data from [Heel 1982](#5) and [Huang 1986](#5), a multiple-dose tablet study from [Tiseo 1998](#5), and a 400 mg solid oral study from [Sriwiriyajan 2007](#5). Verification used independent solution and tablet studies across the evaluated dose, regimen, and food conditions. N-deacetylketoconazole observations were available from [Weiss 2022](#5).
+Model-building studies included solution data from [Heel 1982](#5) and [Huang 1986](#5), a multiple-dose tablet study from [Tiseo 1998](#5), and a 400 mg capsule study from [Sriwiriyajan 2007](#5). Verification used tablet studies across the evaluated dose, regimen, and food conditions. N-deacetylketoconazole observations were available from [Weiss 2022](#5).
 
-The model includes formulation-dependent absorption, arylacetamide deacetylase-mediated N-deacetylketoconazole formation, CYP3A4 and UGT metabolism, P-gp transport, and reversible CYP3A4 and P-gp inhibition by ketoconazole and its metabolites. Goodness-of-fit diagnostics are separated for ketoconazole and N-deacetylketoconazole because metabolite observations are limited to one study.
+The model includes formulation-dependent absorption, arylacetamide deacetylase-mediated N-deacetylketoconazole formation, CYP3A4 and UGT1A4 metabolism of ketoconazole, FMO3 metabolism of both metabolites, P-gp transport, and competitive CYP3A4 and P-gp inhibition by ketoconazole and its metabolites. Goodness-of-fit diagnostics are separated for ketoconazole and N-deacetylketoconazole because metabolite observations are limited to one study.
 
 The next sections show:
 
